@@ -51,7 +51,10 @@ DOMAIN-SUFFIX,sgqt0j.launches.appsflyersdk.com,Moomoo
 DOMAIN,cg.play-analytics.com,Moomoo
 
 # Futu / Moomoo - Tencent IM long connection
-DOMAIN-SUFFIX,shortconn.im.qcloud.com,Moomoo
+DOMAIN,shortconn.im.qcloud.com,Moomoo
+DOMAIN,shortsgp.im.qcloud.com,Moomoo
+DOMAIN,shortusw.im.qcloud.com,Moomoo
+DOMAIN,shortuse.im.qcloud.com,Moomoo
 
 # Futu / Moomoo - exact API, quote, trading, support, and download endpoints
 DOMAIN,cdn.futustatic.com,Moomoo
@@ -118,12 +121,15 @@ IP-CIDR,193.112.84.0/24,Moomoo
 IP-CIDR,193.112.234.0/24,Moomoo
 
 # Futu / Moomoo - single host endpoints
+IP-CIDR,1.14.216.170/32,Moomoo
 IP-CIDR,43.134.158.106/32,Moomoo
 IP-CIDR,43.132.138.6/32,Moomoo
 IP-CIDR,119.28.201.30/32,Moomoo
 IP-CIDR,49.51.77.113/32,Moomoo
+IP-CIDR,43.153.165.27/32,Moomoo
 IP-CIDR,43.153.234.107/32,Moomoo
 IP-CIDR,43.153.249.33/32,Moomoo
+IP-CIDR,43.163.16.28/32,Moomoo
 IP-CIDR,43.163.17.229/32,Moomoo
 IP-CIDR,170.106.201.0/24,Moomoo
 IP-CIDR,175.178.207.0/24,Moomoo
